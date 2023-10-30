@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b537aeaf297b4fa6a3d08a342e4bba48, type: 3}
+  m_Name: AudioResource
+  m_EditorClassIdentifier: 
+  _audioClips:
+    list:
+    - Key: title
+      Value: {fileID: 8300000, guid: be13ba988aecf434994df3fde49bc0c7, type: 3}
+    - Key: in_game
+      Value: {fileID: 8300000, guid: 5b2959d92e53ca841a74ee2a551b5efb, type: 3}
+    - Key: click
+      Value: {fileID: 8300000, guid: e9b9b24fdcaee24488621c0fe78094ce, type: 3}
+    - Key: supply
+      Value: {fileID: 8300000, guid: 023752419ae3e9844ac550e978cc91fa, type: 3}
+    - Key: topping
+      Value: {fileID: 8300000, guid: a570a7fa99372dd4282dee95967dae4b, type: 3}
+    - Key: stop_playing
+      Value: {fileID: 8300000, guid: 0d51ccf8a26caf84a89e4b5b22ec4662, type: 3}
+    - Key: don
+      Value: {fileID: 8300000, guid: 5cfa499f539149f4580fa8ed41cf11a6, type: 3}
+    - Key: dodon
+      Value: {fileID: 8300000, guid: a546424a6187ea74fb55ace2c2ceeb8c, type: 3}
+    - Key: flip
+      Value: {fileID: 8300000, guid: 8069a16b868916b4c8c7a0f63ef834ce, type: 3}
+    - Key: earned
+      Value: {fileID: 8300000, guid: 1425a4320b909194cb09ada89a958b72, type: 3}
+    - Key: miss
+      Value: {fileID: 8300000, guid: 3621b7feb333e16408d50a5931dc63b1, type: 3}
